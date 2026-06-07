@@ -6,8 +6,6 @@ I build backend systems that are distributed, reliable, and production-grade.
 When a problem needs depth — kernel internals, JVM behaviour, protocol design,
 security architecture — I go there. Then I come back up and ship.
 
-Not a language guy. An engineer.
-
 ---
 
 ## 🔨 Currently Building
