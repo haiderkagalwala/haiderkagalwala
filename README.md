@@ -17,9 +17,6 @@ execution library. Handles the 64KB pipe wall, zombie reaping, virtual
 thread-backed stream draining, and process tree kill that zt-exec and the
 JVM quietly ignore. Born from [this article](YOUR_ARTICLE_LINK).
 
-**Interactive terminal over the web** — WebSockets + PTY + Java.
-Real shell. Real I/O. Side project.
-
 ---
 
 ## ✍️ Writing
